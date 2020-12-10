@@ -1,0 +1,10 @@
+<layouttype>thumbnail</layouttype>
+
+<channels> 
+<channel> 
+<name>[B]German VOD[/B]</name> 
+<thumbnail>https://ia601408.us.archive.org/35/items/icon_20201024/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Jigsaw20/M3U_German/main/German_VOD.m3u</externallink> 
+<fanart>https://ia601506.us.archive.org/17/items/fanart_20201024/fanart.jpg</fanart> 
+<info></info> 
+</channel>
