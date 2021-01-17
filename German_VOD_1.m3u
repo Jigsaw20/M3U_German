@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://jokertv.xyz/uploads/video_thumb/480.jpg", One Night in Miami... 
+https://load.hdfilme.ws/hls/9b9d3b9273614e67ffb072f8b41687d1/9b9d3b9273614e67ffb072f8b41687d1.m3u8
+#EXTINF:-1 tvg-logo="https://jokertv.xyz/uploads/video_thumb/479.jpg", Sound of Metal
+https://load.hdfilme.ws/hls/31d45545d3ad75d5c8f9caaf68e9bd3e/31d45545d3ad75d5c8f9caaf68e9bd3e.m3u8
+#EXTINF:-1 tvg-logo="https://jokertv.xyz/uploads/video_thumb/478.jpg", Lost Girls & Love Hotels
+https://load.hdfilme.ws/hls/1d3fdfcc434246472ca70c4f7c99998d/1d3fdfcc434246472ca70c4f7c99998d.m3u8
+#EXTINF:-1 tvg-logo="https://jokertv.xyz/uploads/video_thumb/477.jpg", Countdown
+https://load.hdfilme.ws/hls/718259593ad6d15953aa5029a0f3db06/718259593ad6d15953aa5029a0f3db06.m3u8
+#EXTINF:-1 tvg-logo="https://jokertv.xyz/uploads/video_thumb/476.jpg", Der schwarze Diamant
+https://load.hdfilme.ws/hls/0f6a979a76daa3c2359b0c992317d32a/0f6a979a76daa3c2359b0c992317d32a.m3u8
+#EXTINF:-1 tvg-logo="https://jokertv.xyz/uploads/video_thumb/475.jpg", Quiet Comes the Dawn
+https://load.hdfilme.ws/hls/9f970d23497c85a70102cf374ed817bf/9f970d23497c85a70102cf374ed817bf.m3u8
+#EXTINF:-1 tvg-logo="https://jokertv.xyz/uploads/video_thumb/474.jpg", Horse Girl
+https://load.hdfilme.ws/hls/6bb5b238e96f593911659eb6461910aa/6bb5b238e96f593911659eb6461910aa.m3u8
+#EXTINF:-1 tvg-logo="https://jokertv.xyz/uploads/video_thumb/473.jpg", 3 Engel für Charlie
+https://load.hdfilme.ws/hls/8bac7b5a5247e18d947de2190746cca0/8bac7b5a5247e18d947de2190746cca0.m3u8
+#EXTINF:-1 tvg-logo="https://jokertv.xyz/uploads/video_thumb/472.jpg", All die verdammt perfekten Tage
+https://load.hdfilme.ws/hls/f9efd387e46fd1051e8df1c748385cfc/f9efd387e46fd1051e8df1c748385cfc.m3u8
+#EXTINF:-1 tvg-logo="https://jokertv.xyz/uploads/video_thumb/471.jpg", Jumanji: The Next Level
+https://load.hdfilme.ws/hls/bebc5973c3bc6f85dbf01863ebcde926/bebc5973c3bc6f85dbf01863ebcde926.m3u8
+#EXTINF:-1 tvg-logo="https://jokertv.xyz/uploads/video_thumb/470.jpg", Pokémon: Mewtu schlägt zurück – Evolution
+https://load.hdfilme.ws/hls/b76c681b5332df113ce61007bb6a7951/b76c681b5332df113ce61007bb6a7951.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://jokertv.xyz/uploads/video_thumb/469.jpg", Sonic the Hedgehog
 https://load.hdfilme.ws/hls/1d809c52b3f5b89444c4a63315e015e0/1d809c52b3f5b89444c4a63315e015e0.m3u8
 #EXTINF:-1 tvg-logo="https://jokertv.xyz/uploads/video_thumb/468.jpg", Attraction 2: Invasion
